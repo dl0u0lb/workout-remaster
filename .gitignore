@@ -1,0 +1,46 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Large media files & renders
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.wav
+*.mp3
+
+# Output directory (final rendered videos)
+output/
+workout_remaster/output/
+
+# Temporary caches, intermediate SAM2 masks & frames
+tmp/
+workout_remaster/tmp/
+frames/
+workout_remaster/frames/
+
+# Test keyframes & logs
+test/
+workout_remaster/test/
+*.log
+
+# OS & Editor files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.vscode/
+.idea/
+.memsearch/

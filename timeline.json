@@ -1,0 +1,192 @@
+{
+  "video_info": {
+    "source_path": "/Users/guo/Downloads/螺哥羽毛球核心 _ 5分钟核心跟练 _ 提升杀球稳定与移动效率 _ 5-Minute Badminton CORE Workout.mp4",
+    "source_resolution": "1280x720",
+    "target_resolution": "1920x1080",
+    "fps": 30,
+    "total_duration_sec": 335,
+    "title_zh": "5分钟羽毛球核心训练",
+    "title_en": "5-Minute Badminton CORE Workout"
+  },
+  "clean_regions": {
+    "top_bar": {
+      "y_max": 274,
+      "description": "Original Chinese menu header and top-center timer zone"
+    },
+    "bottom_bar": {
+      "y_min": 594,
+      "description": "Original yellow Chinese subtitles zone"
+    },
+    "center_countdown": {
+      "x0": 450,
+      "y0": 274,
+      "x1": 785,
+      "y1": 468,
+      "description": "Center giant translucent white countdown digits and English text"
+    },
+    "opening_card": {
+      "start_sec": 0.0,
+      "end_sec": 3.0,
+      "x0": 275,
+      "y0": 226,
+      "x1": 1004,
+      "y1": 487,
+      "description": "Translucent white title card 5分钟核心训练"
+    },
+    "outro_text": {
+      "start_sec": 316.8,
+      "end_sec": 326.8,
+      "x0": 495,
+      "y0": 335,
+      "x1": 780,
+      "y1": 438,
+      "description": "Outro Chinese calligraphy 谢谢观看 and red seal above the coach"
+    }
+  },
+  "intro": {
+    "start_sec": 0,
+    "end_sec": 13,
+    "duration_sec": 13,
+    "name_zh": "开场准备与倒计时",
+    "name_en": "Intro & Ready Countdown"
+  },
+  "blocks": [
+    {
+      "id": 1,
+      "name_zh": "死虫子",
+      "name_en": "Dead Bug Core Activation",
+      "start_sec": 13,
+      "end_sec": 33,
+      "duration_sec": 20,
+      "rest_start_sec": 33,
+      "rest_end_sec": 46,
+      "rest_duration_sec": 13,
+      "next_name_en": "Seated Knee Touch",
+      "coach_cue_en": "Keep your lower back pressed firmly into the mat! Stabilize your trunk for overhead smashes."
+    },
+    {
+      "id": 2,
+      "name_zh": "坐姿摸膝",
+      "name_en": "Seated Knee Touch",
+      "start_sec": 46,
+      "end_sec": 66,
+      "duration_sec": 20,
+      "rest_start_sec": 66,
+      "rest_end_sec": 79,
+      "rest_duration_sec": 13,
+      "next_name_en": "Seated Crunch",
+      "coach_cue_en": "Engage your upper abs! Control every reach and keep breathing steady."
+    },
+    {
+      "id": 3,
+      "name_zh": "坐姿卷腹",
+      "name_en": "Seated Crunch",
+      "start_sec": 79,
+      "end_sec": 99,
+      "duration_sec": 20,
+      "rest_start_sec": 99,
+      "rest_end_sec": 112,
+      "rest_duration_sec": 13,
+      "next_name_en": "Alternating Toe Touch",
+      "coach_cue_en": "Drive your knees in with core power! Build explosive court recovery speed."
+    },
+    {
+      "id": 4,
+      "name_zh": "两边摸脚",
+      "name_en": "Alternating Toe Touch",
+      "start_sec": 112,
+      "end_sec": 132,
+      "duration_sec": 20,
+      "rest_start_sec": 132,
+      "rest_end_sec": 144,
+      "rest_duration_sec": 12,
+      "next_name_en": "Supine Leg Raise",
+      "coach_cue_en": "Fire up those obliques! Side-to-side core strength powers your defensive lunges."
+    },
+    {
+      "id": 5,
+      "name_zh": "仰卧抬腿",
+      "name_en": "Supine Leg Raise",
+      "start_sec": 144,
+      "end_sec": 164,
+      "duration_sec": 20,
+      "rest_start_sec": 164,
+      "rest_end_sec": 177,
+      "rest_duration_sec": 13,
+      "next_name_en": "Bicycle Cross Crunch",
+      "coach_cue_en": "Control the descent! Don't let your lower back arch off the floor."
+    },
+    {
+      "id": 6,
+      "name_zh": "仰卧交叉",
+      "name_en": "Bicycle Cross Crunch",
+      "start_sec": 177,
+      "end_sec": 197,
+      "duration_sec": 20,
+      "rest_start_sec": 197,
+      "rest_end_sec": 210,
+      "rest_duration_sec": 13,
+      "next_name_en": "Russian Twist",
+      "coach_cue_en": "Twist from your torso, not just your elbows! Build rotational smash power."
+    },
+    {
+      "id": 7,
+      "name_zh": "俄罗斯转体",
+      "name_en": "Russian Twist",
+      "start_sec": 210,
+      "end_sec": 230,
+      "duration_sec": 20,
+      "rest_start_sec": 230,
+      "rest_end_sec": 243,
+      "rest_duration_sec": 13,
+      "next_name_en": "V-Up Double Leg Raise",
+      "coach_cue_en": "Stay balanced on your sit bones! Lock in that rotational core stability."
+    },
+    {
+      "id": 8,
+      "name_zh": "两头起",
+      "name_en": "V-Up Double Leg Raise",
+      "start_sec": 243,
+      "end_sec": 263,
+      "duration_sec": 20,
+      "rest_start_sec": 263,
+      "rest_end_sec": 276,
+      "rest_duration_sec": 13,
+      "next_name_en": "Superman Back Extension",
+      "coach_cue_en": "Explode up and fold from the core! Just like snapping a jump smash in mid-air."
+    },
+    {
+      "id": 9,
+      "name_zh": "背部两头起",
+      "name_en": "Superman Back Extension",
+      "start_sec": 276,
+      "end_sec": 296,
+      "duration_sec": 20,
+      "rest_start_sec": 296,
+      "rest_end_sec": 297,
+      "rest_duration_sec": 1,
+      "next_name_en": "Cobra Core Stretch",
+      "coach_cue_en": "Squeeze your lower back and glutes! Strong posterior chain prevents court injuries."
+    },
+    {
+      "id": 10,
+      "name_zh": "拉伸",
+      "name_en": "Cobra Core Stretch",
+      "start_sec": 297,
+      "end_sec": 317,
+      "duration_sec": 20,
+      "rest_start_sec": 317,
+      "rest_end_sec": 335,
+      "rest_duration_sec": 18,
+      "next_name_en": "Workout Complete",
+      "coach_cue_en": "Breathe deeply and lengthen your abdominal wall. Relax your shoulders."
+    }
+  ],
+  "outro": {
+    "start_sec": 317,
+    "end_sec": 335,
+    "duration_sec": 18,
+    "name_zh": "训练完成与致谢",
+    "name_en": "Cool Down & Workout Complete"
+  }
+}
